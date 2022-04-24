@@ -19,7 +19,7 @@ The requested data collected and summarized in Fig.1 and Fig2. Here are the diff
 **Fig2. December_stats**  
 
 ## Summary
- Based on two queries, the overall temperatuer is the same for June and December. The minimum temperature for December is a bit chilly.
+ Based on the two queries, the overall temperatuer is the same for June and December. The minimum temperature for December is a bit chilly.
 
  ### Query1: 
  This Query can be used to gather precipitation data for June.
